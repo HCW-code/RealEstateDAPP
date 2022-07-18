@@ -35,9 +35,12 @@ https://www.inflearn.com/course/blockchain-%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-
 
 <img width="700" alt="스크린샷 2022-07-18 오후 8 04 58" src="https://user-images.githubusercontent.com/72719325/179498662-acb7fe72-f7b3-49fa-a3d7-b7477bf12de1.png">
 
-<img width="664" alt="스크린샷 2022-07-18 오후 8 05 21" src="https://user-images.githubusercontent.com/72719325/179498657-d246e929-262d-493d-8524-24562db94247.png">
-
 <img width="700" alt="스크린샷 2022-07-18 오후 8 08 49" src="https://user-images.githubusercontent.com/72719325/179499038-02738336-c666-4ddd-937c-39a9422453f9.png">
+
+<img width="664" alt="스크린샷 2022-07-18 오후 8 05 21" src="https://user-images.githubusercontent.com/72719325/179498657-d246e929-262d-493d-8524-24562db94247.png">
+Ropsten네트워크 ID 인 3으로 변경하며 기부받은 Account1의 주소로 network 주소를 변경
+
+
 
 3. Network Setting(RealEstate.json)
 
