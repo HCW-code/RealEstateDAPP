@@ -40,13 +40,7 @@ https://www.inflearn.com/course/blockchain-%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-
 3. Ropsten네트워크 ID 인 3으로 변경하며 기부받은 Account1의 주소로 address를 변경
 <img width="664" alt="스크린샷 2022-07-18 오후 8 05 21" src="https://user-images.githubusercontent.com/72719325/179498657-d246e929-262d-493d-8524-24562db94247.png">  
 
-
-
-
-3. Network Setting(RealEstate.json)
-
-
-4. Presentation
+4. Ropsten네트워크에서의 거래
 
 ![Hnet-image (4)](https://user-images.githubusercontent.com/64346003/150670576-5ebf73b6-bf92-4c0d-b39a-003f565cd747.gif)
 
