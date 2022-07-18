@@ -27,7 +27,7 @@ https://www.inflearn.com/course/blockchain-%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-
 
 ## + 리믹스를 사용하여 Ropsten 테스트넷 컨트랙 배포 및 테스팅
 1. Remix를 이용하여 컨트랙트 배포
-<img width="700" alt="스크린샷 2022-01-23 오후 4 28 22" src="https://user-images.githubusercontent.com/64346003/150668868-ff3cd294-fb69-4a59-bbdb-11ca38656ebf.png">
+<img width="500" alt="스크린샷 2022-01-23 오후 4 28 22" src="https://user-images.githubusercontent.com/64346003/150668868-ff3cd294-fb69-4a59-bbdb-11ca38656ebf.png">
 
 2. 메타마스크를 초기화 시키고 다시 사이트와 연동시켜서 각각 Account1과 Account2에 이더를 기부받는다.(기부 사이트 : https://faucet.metamask.io/)
   - Account 1 : Owner
@@ -35,10 +35,10 @@ https://www.inflearn.com/course/blockchain-%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-
 
 <img width="700" alt="스크린샷 2022-07-18 오후 8 04 58" src="https://user-images.githubusercontent.com/72719325/179498662-acb7fe72-f7b3-49fa-a3d7-b7477bf12de1.png">
 
-<img width="700" alt="스크린샷 2022-07-18 오후 8 08 49" src="https://user-images.githubusercontent.com/72719325/179499038-02738336-c666-4ddd-937c-39a9422453f9.png">
+<img width="500" alt="스크린샷 2022-07-18 오후 8 08 49" src="https://user-images.githubusercontent.com/72719325/179499038-02738336-c666-4ddd-937c-39a9422453f9.png">
 
 3. Ropsten네트워크 ID 인 3으로 변경하며 기부받은 Account1의 주소로 address를 변경
-<img width="664" alt="스크린샷 2022-07-18 오후 8 05 21" src="https://user-images.githubusercontent.com/72719325/179498657-d246e929-262d-493d-8524-24562db94247.png">  
+<img width="600" alt="스크린샷 2022-07-18 오후 8 05 21" src="https://user-images.githubusercontent.com/72719325/179498657-d246e929-262d-493d-8524-24562db94247.png">  
 
 4. Ropsten네트워크에서의 거래
 
