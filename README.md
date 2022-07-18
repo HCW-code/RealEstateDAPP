@@ -38,7 +38,7 @@ https://www.inflearn.com/course/blockchain-%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-
 <img width="600" alt="스크린샷 2022-01-23 오후 4 30 56" src="https://user-images.githubusercontent.com/64346003/150668887-c187a0cc-b668-4767-813c-f998241ec695.png">
 
 3. Ropsten네트워크 ID 인 3으로 변경하며 기부받은 Account1의 주소로 address를 변경
-<img width="600" alt="스크린샷 2022-07-18 오후 8 05 21" src="https://user-images.githubusercontent.com/72719325/179498657-d246e929-262d-493d-8524-24562db94247.png">  
+<img width="679" alt="스크린샷 2022-01-23 오후 4 34 31" src="https://user-images.githubusercontent.com/64346003/150669196-fc01ffbe-8ee9-4309-9b46-5d13194d844d.png">
 
 4. Ropsten네트워크에서의 거래
 
