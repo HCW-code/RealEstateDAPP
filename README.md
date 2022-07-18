@@ -29,12 +29,10 @@ https://www.inflearn.com/course/blockchain-%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-
 1. Remix를 이용하여 컨트랙트 배포
 <img width="1440" alt="스크린샷 2022-01-23 오후 4 28 22" src="https://user-images.githubusercontent.com/64346003/150668868-ff3cd294-fb69-4a59-bbdb-11ca38656ebf.png">
 
-2. 메타마스크를 초기화 시키고 이더를 기부받는다.
+2. 메타마스크를 초기화 시키고 이더를 기부받는다. 그 후 
   - Account 1 : Owner
-<img width="1360" alt="스크린샷 2022-01-23 오후 4 03 45" src="https://user-images.githubusercontent.com/64346003/150668283-42e8b353-b438-4c3f-a8ce-e72469b137fd.png">
-
   - Account 2 : Customer
-<img width="1359" alt="스크린샷 2022-01-23 오후 4 03 54" src="https://user-images.githubusercontent.com/64346003/150668301-8e893cb6-aec3-47f2-9cbf-74add435aed6.png">
+
 
 
 
