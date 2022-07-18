@@ -15,11 +15,13 @@
 * Node.js v16.13.2
 
 ## ganache네트워크를 이용하여 배포
+
 <center>
 <img width="827" alt="스크린샷 2022-01-20 오후 5 12 23" src="https://user-images.githubusercontent.com/64346003/150340497-fddc8d3e-6d43-4a93-8e7a-58c76fd96905.png">
 </center>
 
 ## 로컬 환경에서 실행
+
 <center>
 <img width="962" alt="스크린샷 2022-01-20 오후 5 22 44" src="https://user-images.githubusercontent.com/64346003/150340611-72144b24-726d-46b0-9958-13f0b8ac90e4.png">
 </center>
