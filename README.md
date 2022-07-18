@@ -29,19 +29,20 @@ https://www.inflearn.com/course/blockchain-%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-
 1. Remix를 이용하여 컨트랙트 배포
 <img width="1440" alt="스크린샷 2022-01-23 오후 4 28 22" src="https://user-images.githubusercontent.com/64346003/150668868-ff3cd294-fb69-4a59-bbdb-11ca38656ebf.png">
 
-2. 메타마스크를 초기화 시키고 이더를 기부받는다. 그 후 
+2. 메타마스크를 초기화 시키고 이더를 기부받는다.
   - Account 1 : Owner
   - Account 2 : Customer
 
+<img width="664" alt="스크린샷 2022-07-18 오후 8 05 21" src="https://user-images.githubusercontent.com/72719325/179498657-d246e929-262d-493d-8524-24562db94247.png">
 
+<img width="1389" alt="스크린샷 2022-07-18 오후 8 04 58" src="https://user-images.githubusercontent.com/72719325/179498662-acb7fe72-f7b3-49fa-a3d7-b7477bf12de1.png">
 
+<img width="887" alt="스크린샷 2022-07-18 오후 8 08 49" src="https://user-images.githubusercontent.com/72719325/179499038-02738336-c666-4ddd-937c-39a9422453f9.png">
 
 <img width="1226" alt="스크린샷 2022-01-23 오후 4 30 56" src="https://user-images.githubusercontent.com/64346003/150668887-c187a0cc-b668-4767-813c-f998241ec695.png">
 
 3. Network Setting(RealEstate.json)
-<img width="664" alt="스크린샷 2022-07-18 오후 8 05 21" src="https://user-images.githubusercontent.com/72719325/179498657-d246e929-262d-493d-8524-24562db94247.png">
 
-<img width="1389" alt="스크린샷 2022-07-18 오후 8 04 58" src="https://user-images.githubusercontent.com/72719325/179498662-acb7fe72-f7b3-49fa-a3d7-b7477bf12de1.png">
 
 4. Presentation
 
